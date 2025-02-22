@@ -1,4 +1,4 @@
-//Busca binaria
+//Busca binaria com funcao sort padrao
 
 #include<iostream>
 #include<vector>
